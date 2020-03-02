@@ -1,0 +1,18 @@
+1.Write a program to print Hello World
+2.Write a program that takes 2 number from input and prints the sum.
+3.Write a program that takes 2 number from input and prints the product.
+
+4. Write a program that asks user option  for question `What do you want to do?`
+    Input could be A(Add), S(Subtract), M(Multiply), D(Division)
+    For each of these input take 2 number from user and print the result of operation asked by user.
+    Hint(Switch-Case)
+
+5. Improve the above program to keep doing this repeatedly. Add input option Quit(Q)
+    hint(Loop)
+
+6. Learn basic skills on Vi Editor
+7. Learn to compile and run any c program from terminal.(hint: gcc (GNU C Compliler))
+0. Change hostname to something smaller. (Use Google)
+8. Create account on hackerrank and practice C problems
+9. Create account on github.com and learn to use it.
+
